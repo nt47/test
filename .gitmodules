@@ -4,3 +4,6 @@
 [submodule "Dependecies/Un7z"]
 	path = Dependecies/Un7z
 	url = https://github.com/nt47/Un7z.git
+[submodule "Dependencies/Un7z"]
+	path = Dependencies/Un7z
+	url = https://github.com/nt47/Un7z.git
