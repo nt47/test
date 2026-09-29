@@ -1,9 +1,6 @@
 [submodule "Dependencies/UnRar"]
 	path = Dependencies/UnRar
 	url = https://github.com/nt47/UnRar.git
-[submodule "Dependecies/Un7z"]
-	path = Dependecies/Un7z
-	url = https://github.com/nt47/Un7z.git
 [submodule "Dependencies/Un7z"]
 	path = Dependencies/Un7z
 	url = https://github.com/nt47/Un7z.git
